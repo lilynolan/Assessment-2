@@ -19,6 +19,24 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 This project is related to mine because *insert reasons here*.
 
+### Related project 2 ###
+Parental Approval
+
+https://www.youtube.com/watch?v=M1B3gATS0GE
+
+![Image](missingimage.png)
+
+This project is related to mine because it is made at home and is a simple idea. It is a device made purely for entertainment and uses simple mechanices.
+
+### Related project 3 ###
+Microbit Combination Lock Box
+
+https://make.techwillsaveus.com/microbit/activities/combination-lock
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
