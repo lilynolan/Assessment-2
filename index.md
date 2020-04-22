@@ -47,15 +47,16 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+To create a small device/game that is simple and entertaining.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+My first idea was an electronic pet. lots of people have been wanting pets in the last few weeks since we have been stuck inside. I think that an electronic household pet could be helpful for people who can't get a pet right now. I would want the pet to have a few simple commands that had randomised outcomes. If it was an electronic dog it would make a few noises when pet and wag it's tail when a person comes near.
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
-*Put details here.*
+My second idea was a hand held game. 
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
