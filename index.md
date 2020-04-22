@@ -11,20 +11,20 @@ When you have completed the template, submit the link to the GitHub Pages site f
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
+FurReal Pets
 
-*Insert URL to project*
+https://www.youtube.com/watch?v=oUpXGdyU1oc&list=PLNXV9Mb7egjGjtA6KOjx86IwIpHQZ-ow5&index=2
 
-![Image](missingimage.png)
+![Image](Furreal.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it is an entertaining toy that 
 
 ### Related project 2 ###
 Parental Approval
 
 https://www.youtube.com/watch?v=M1B3gATS0GE
 
-![Image](missingimage.png)
+![Image](parental.png)
 
 This project is related to mine because it is made at home and is a simple idea. It is a device made purely for entertainment and uses simple mechanices.
 
@@ -33,13 +33,16 @@ Microbit Combination Lock Box
 
 https://make.techwillsaveus.com/microbit/activities/combination-lock
 
-![Image](missingimage.png)
+![Image](padlock.png)
 
 This project is related to mine because *insert reasons here*.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
+I found the code fom the padlock projects really helpful in creating my puzzle box
+
+![Image](padcode.png)
 ### *Brief resource name/description* ###
 
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
