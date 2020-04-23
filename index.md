@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=oUpXGdyU1oc&list=PLNXV9Mb7egjGjtA6KOjx86IwIpHQZ-
 
 ![Image](Furreal.png)
 
-This project is related to mine because it is an entertaining toy that 
+This project is related to mine because it is an entertaining toy that is interacted with through basic buttons with set responses. 
 
 ### Related project 2 ###
 Parental Approval
@@ -37,10 +37,23 @@ https://make.techwillsaveus.com/microbit/activities/combination-lock
 
 This project is related to mine because *insert reasons here*.
 
+### Related project 4 ###
+Tamagotchi
+
+https://www.youtube.com/watch?v=G-dnRcAekBU
+
+![Image](tamagotchi.png)
+
+This project is related to mine because it is an entertaining toy that is interacted with through basic buttons with set responses.  
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+Why You should Make Useless Things tedtalk:
+https://www.youtube.com/watch?v=c0bsKc4tiuY
+I liked the points made in this tedtalk 
 
-I found the code fom the padlock projects really helpful in creating my puzzle box
+
+I found the code from the padlock projects really helpful in creating my puzzle box
 
 ![Image](padcode.png)
 ### *Brief resource name/description* ###
@@ -54,7 +67,7 @@ To create a small device/game that is simple and entertaining.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-My first idea was an electronic pet. lots of people have been wanting pets in the last few weeks since we have been stuck inside. I think that an electronic household pet could be helpful for people who can't get a pet right now. I would want the pet to have a few simple commands that had randomised outcomes. If it was an electronic dog it would make a few noises when pet and wag it's tail when a person comes near.
+My first idea was an electronic pet. lots of people have been wanting pets in the last few weeks since we have been stuck inside. I think that an electronic household pet could be helpful for people who can't get a pet right now. I would want the pet to have a few simple commands that had randomised outcomes. My idea is to create a toy where the 
 
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
