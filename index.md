@@ -15,7 +15,7 @@ FurReal Pets
 
 https://www.youtube.com/watch?v=oUpXGdyU1oc&list=PLNXV9Mb7egjGjtA6KOjx86IwIpHQZ-ow5&index=2
 
-![Image](Furreal.png)
+![Image](furreal.png)
 
 This project is related to mine because it is an entertaining toy that is interacted with through basic buttons with set responses. 
 
