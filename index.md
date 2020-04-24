@@ -76,21 +76,14 @@ My final design concept is to make a puzzle box that contains sweets. Following 
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
-
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
-
 This is the first code that I developed and tested. It's a simple circus that when closed shows a smiley face and when open shows a cross and makes an alerting noise
 ![Image](test.png)
 ![Image](box1.png)
 ![Image](box2.png)
 
 I then placed all of the wires within the box to make it look cleaner. 
-![Image](box1.png)
-![Image](box2.png)
+![Image](box3.png)
+![Image](box4.png)
 I added to the code a function to deactivate the alarm while the A button is pressed.
 ![Image](protocode.png)
 
