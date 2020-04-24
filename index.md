@@ -4,8 +4,7 @@ You will use this workbook to keep track of your progress through the course and
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Puzzle Box-ish ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
@@ -70,10 +69,10 @@ My first idea was an electronic pet. lots of people have been wanting pets in th
 
 
 ### Design concept 2 ###
-My second idea was an alarmed cookie jar to stop people stealing your snacks.  
+My second idea was an alarmed cookie jar to stop people stealing your snacks. I felt that this would be useful whilst in isolation to stop people from having too many cookies by shaming them. The cookie jar could say sarcastic things when opened such as "Do you really need that?" and "Wow that's 3 today." Basically everything your mother would say if she was around.
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+My final design concept is to make a puzzle box that contains sweets. Following on from my second design concept, this design will protect your snacks from others in a fun and entertaining way. With an alarm that goes off if the box is opened without solving the problem and a puzzle/ passcode to keep people away from your treats.
 
 ### Interaction flowchart ###
 
@@ -98,8 +97,9 @@ I then placed all of the wires within the box to make it look cleaner.
 ![Image](box2.png)
 I added to the code a function to deactivate the alarm while the A button is pressed.
 ![Image](protocode.png)
+
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+The outcome that I want to achieve in this project is to create a puzzle box that is creative and challenging for the user. The first challenge in creating this was to find similar projects to mine and study the mechanisms and coding used in them. I found the coding for a padlock which was very useful in understanding how my simple circuits would work. I then used that knowledge to develop the basic code to test the function of opening the box and the alarm going off. After testing my code and making sure that it functioned correctly I then refined it and added another function so that the alarm would be disabled when the button A is pressed. Thus far, I have created a very simple outcome but I have laid the foundations for my project to become a fully functional product.
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+The next steps for me in this project is to make the puzzle box more interactive and better presented. I also want to make the interaction more complex and difficult as it is a puzzle box and meant to be challenging for the user.
